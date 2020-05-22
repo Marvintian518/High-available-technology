@@ -1,0 +1,2 @@
+# High-available-technology
+note
